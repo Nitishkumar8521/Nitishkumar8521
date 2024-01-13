@@ -15,7 +15,7 @@
 
  
 
- 🌱 Presently I am pursuing BTech from Nalanda College of Engineering in Computer Science and Engineering  branch 
+ 🌱 Presently I am pursuing B.Tech from Nalanda College of Engineering in Computer Science and Engineering  branch 
  
  🌱 and parallelly I have enroll in prepleaf by MASAI for full stack web development.
 
