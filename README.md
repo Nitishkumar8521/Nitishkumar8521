@@ -15,9 +15,8 @@
 
  
 
- 🌱 Presently I am pursuing B.Tech from Nalanda College of Engineering in Computer Science and Engineering  branch 
- 
- 🌱 and parallelly I have enroll in prepleaf by MASAI for full stack web development.
+ 🌱 Completed B.Tech in Computer Science and Engineering. Also enrolled in the Full Stack Web Development   
+ 🌱 program by PrepLeaf (by Masai School) to enhance practical development skills.
 
  </div>
  
@@ -28,7 +27,7 @@
   <a href="https://www.linkedin.com/in/nitish-kumar-singh-845072240/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://66a8de2959756a0ae16c88c5--astonishing-brigadeiros-086c52.netlify.app/" target="_blank">
+  <a href="https://spiffy-kitsune-f6d993.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
